@@ -1,0 +1,13 @@
+*data_raw*
+*-update/*
+build/
+node_modules/
+dist/
+.vscode/
+.DS_Store
+.env
+env/
+.venv
+.flaskenv
+*.pyc
+*.pyo
